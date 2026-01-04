@@ -31,7 +31,7 @@ export default {
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ai3-lab/ai3-lab.github.io' }
+      { icon: 'github', link: 'https://github.com/WuyangFF95/WuyangFF95.github.io' }
     ],
 
     footer: {
