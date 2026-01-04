@@ -46,7 +46,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://ai3-lab.github.io/
+      url: https://wuyangff95.github.io/
     needs: build
     runs-on: ubuntu-latest
     name: Deploy
