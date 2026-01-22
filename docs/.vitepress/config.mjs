@@ -1,31 +1,31 @@
 export default {
-  title: 'Joe Yeong Lab',
-  description: 'Laboratory of Joe Poh Sheng YEONG - Spatial Omics Research',
+  title: 'WU Yang',
+  description: 'Personal Website of WU Yang - Researcher / 研究员',
   base: '/',
-  
+
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'About Joe', link: '/about-joe' },
-      { text: 'Innovation', link: '/innovation' },
-      { text: 'Team', link: '/team' },
-      { text: 'Research', link: '/research' },
-      { text: 'News', link: '/news' },
-      { text: 'Platforms', link: '/platforms' },
-      { text: 'Contact', link: '/contact' }
+      { text: 'Home / 首页', link: '/' },
+      { text: 'About / 关于', link: '/about' },
+      { text: 'Innovation / 创新', link: '/innovation' },
+      { text: 'Team / 团队', link: '/team' },
+      { text: 'Research / 研究', link: '/research' },
+      { text: 'News / 新闻', link: '/news' },
+      { text: 'Platforms / 平台', link: '/platforms' },
+      { text: 'Contact / 联系', link: '/contact' }
     ],
     sidebar: [
       {
-        text: 'Navigation',
+        text: 'Navigation / 导航',
         items: [
-          { text: 'Home', link: '/' },
-          { text: 'About Joe', link: '/about-joe' },
-          { text: 'Innovation', link: '/innovation' },
-          { text: 'Team', link: '/team' },
-          { text: 'Research', link: '/research' },
-          { text: 'News', link: '/news' },
-          { text: 'Platforms', link: '/platforms' },
-          { text: 'Contact', link: '/contact' }
+          { text: 'Home / 首页', link: '/' },
+          { text: 'About / 关于', link: '/about' },
+          { text: 'Innovation / 创新', link: '/innovation' },
+          { text: 'Team / 团队', link: '/team' },
+          { text: 'Research / 研究', link: '/research' },
+          { text: 'News / 新闻', link: '/news' },
+          { text: 'Platforms / 平台', link: '/platforms' },
+          { text: 'Contact / 联系', link: '/contact' }
         ]
       }
     ],
@@ -35,8 +35,8 @@ export default {
     ],
 
     footer: {
-      message: 'Joe Yeong Laboratory - Spatial Omics Research',
-      copyright: 'Copyright © 2025 Joe Poh Sheng YEONG'
+      message: 'WU Yang - Personal Website / 武洋个人网站',
+      copyright: 'Copyright © 2025 WU Yang / 武洋'
     }
   }
 }

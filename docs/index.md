@@ -1,24 +1,34 @@
-# AI^3: AI + Immunology, Innovation, Intelligence
+# Welcome / 欢迎
 
-## Welcome to AI in Immunology Laboratory of Prof. Joe Poh Sheng YEONG
+## WU Yang / 武洋
 
-We focus on cutting-edge researches on AI in immunology, tumor pathology, spatial multi-omics to understand tumor theranostics (diagnostics + therapy).
+Personal Website of Researcher WU Yang / 武洋研究员个人网站
 
-### Research Focus
+<!-- Research Photo Placeholder -->
+<!-- 研究员照片占位符 -->
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/team/placeholder.svg" alt="WU Yang / 武洋" style="max-width: 300px; border-radius: 50%;" />
+</div>
 
-Our laboratory specializes in:
+### About / 简介
 
-- Human experts and AI models in tumor pathology
-- Multi-omics and spatial multi-omics integrative data analysis
-- Biomarker discovery and validation
-- Translational research applications - AIDD, cancer vaccine and companion diagnostics assay development
+<!-- Brief introduction placeholder -->
+<!-- 简介占位符 -->
+Researcher focusing on [Research Field Placeholder / 研究领域占位符]. / 专注于[研究领域占位符]的研究员。
 
-### Latest News
+### Research Focus / 研究方向
 
-Stay tuned for updates on our latest research findings, publications, and laboratory achievements.
+<!-- Research focus placeholder -->
+<!-- 研究方向占位符 -->
+- [Research Area 1 / 研究方向1]
+- [Research Area 2 / 研究方向2]
+- [Research Area 3 / 研究方向3]
+
+### Latest News / 最新动态
+
+Stay tuned for updates on latest research findings, publications, and achievements.
+敬请关注最新研究成果、出版物和成就的更新。
 
 ---
 
-*For more information about our research, team, and opportunities, please explore the navigation menu above.*
-
-[Learn more about Joe Yeong →](/about-joe)
+[Learn more about WU Yang →](/about) / [了解更多关于武洋 →](/about)
