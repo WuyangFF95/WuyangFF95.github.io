@@ -1,4 +1,4 @@
-# 新闻与动态
+# News & Updates
 
 <style>
 .news-item {
@@ -92,24 +92,24 @@
 }
 </style>
 
-## 最新新闻
+## Latest News
 
 <div class="news-item">
 <div class="news-image">
 <a href="https://www.nature.com/nature/volumes/640/issues/8060" target="_blank">
-<img src="/images/news/2025-03-12-nature-spatial-awareness.png" alt="Nature 空间感知研究" />
+<img src="/images/news/2025-03-12-nature-spatial-awareness.png" alt="Nature Spatial Awareness Research" />
 </a>
 </div>
 <div class="news-content">
 <div class="news-title"><a href="https://doi.org/10.1038/s41586-025-08668-x" target="_blank">Spatial immune scoring system predicts hepatocellular carcinoma recurrence</a></div>
-<div class="news-date">2025 年 3 月 12 日</div>
+<div class="news-date">March 12th, 2025</div>
 <div class="news-links">
 
-**新加坡研究人员开发 AI 工具预测肝癌复发**
+**Singapore researchers develop AI tool to predict liver cancer recurrence**
 - [Eureka Alert](https://www.eurekalert.org/news-releases/1091898)
 - [SG Press Centre](https://www.sgpc.gov.sg/detail?url=/media_releases/astar/press_release/P-20250721-1)
 
-**新加坡开发的 AI 系统可帮助预测肝癌复发**
+**AI system developed in Singapore could help predict liver cancer recurrence**
 - [Straits Times](https://www.straitstimes.com/singapore/health/ai-system-developed-in-singapore-could-help-predict-liver-cancer-recurrence)
 - [Singapore General Hospital](https://www.sgh.com.sg/news/patient-care/ai-system-developed-in-singapore-could-help-predict-liver-cancer)
 
@@ -125,13 +125,13 @@
 
 ---
 
-## LinkedIn 更新
+## LinkedIn Updates
 
 <div style="margin: 2rem 0;">
   <p style="font-size: 1.1rem; color: #2c3e50; margin-bottom: 1.5rem;">
-    在 LinkedIn 上关注 <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: bold;">Joe Yeong</a> 获取最新动态：
+    Follow <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: bold;">Joe Yeong</a> on LinkedIn for the latest updates:
   </p>
-
+  
   <ClientOnly>
     <LinkedInPosts />
   </ClientOnly>
@@ -139,4 +139,4 @@
 
 ---
 
-*此页面将定期更新 Joe Yeong 实验室的最新新闻。*
+*This page will be regularly updated with the latest news from the Joe Yeong Laboratory.*

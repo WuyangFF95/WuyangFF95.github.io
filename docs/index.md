@@ -1,24 +1,24 @@
-# AI^3: AI + Immunology, Innovation, Intelligence
+# AI³: AI + 免疫学、创新、智能
 
-## Welcome to AI in Immunology Laboratory of Prof. Joe Poh Sheng YEONG
+## 欢迎来到 Joe Poh Sheng YEONG 教授的 AI 免疫学实验室
 
-We focus on cutting-edge researches on AI in immunology, tumor pathology, spatial multi-omics to understand tumor theranostics (diagnostics + therapy).
+我们专注于 AI 在免疫学、肿瘤病理学、空间多组学领域的尖端研究，以了解肿瘤诊疗（诊断 + 治疗）。
 
-### Research Focus
+### 研究重点
 
-Our laboratory specializes in:
+我们实验室的专业领域包括：
 
-- Human experts and AI models in tumor pathology
-- Multi-omics and spatial multi-omics integrative data analysis
-- Biomarker discovery and validation
-- Translational research applications - AIDD, cancer vaccine and companion diagnostics assay development
+- 肿瘤病理学中的人类专家与 AI 模型
+- 多组学与空间多组学整合数据分析
+- 生物标志物发现与验证
+- 转化研究应用 - AIDD、癌症疫苗和伴随诊断检测试剂开发
 
-### Latest News
+### 最新新闻
 
-Stay tuned for updates on our latest research findings, publications, and laboratory achievements.
+敬请关注我们最新的研究发现、出版物和实验室成就。
 
 ---
 
-*For more information about our research, team, and opportunities, please explore the navigation menu above.*
+*有关我们研究、团队和机会的更多信息，请浏览上方导航菜单。*
 
-[Learn more about Joe Yeong →](/about-joe)
+[了解更多关于 Yang Wu 的信息 →](/about-yang)

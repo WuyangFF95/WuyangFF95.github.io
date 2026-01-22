@@ -1,54 +1,54 @@
-# Innovation
+# 创新
 
-## Innovations & IPs
+## 创新与知识产权
 
-- Automated staining protocol for seven-colour immunofluorescence of human and animal tissue sections for diagnostic and prognostic use (TEC-18-96)
-- PD-L1 monoclonal antibody as a diagnostic tool to predict anti-PD-L1 and anti-PD-1 immunotherapy response in cancer (IMC/Z/12757)
-- IHC staining for CD38 predict anti-PD-1 immunotherapy response (TEC-18-92) and in house engineered antibody (2023-019)
-- IHC staining for CD39 predict PD-1/PD-L1 inhibitor immunotherapy response (IMC/Z/11149) and in-house engineered antibody (IMC/Z/13882)
-- PD-L2 monoclonal antibody as a diagnostic tool to predict anti-PD-L1 and anti-PD-1 immunotherapy response in cancer (2023-020)
-- Methodology for development of a direct multiplex immunohistochemistry prototype kit for CD39 and PD-L1 detection (2023-021)
-- 74 Antibodies Optimised for Immunohistochemistry (IHC) (IMC/Z/13562, licensed to ImmunoQs.)
-- Multiplex immunohistochemistry/immunofluorescence (mIHC/IF) for PD-L1 testing in triple negative breast cancer: a translational assay compares to conventional IHC (DxD/Z/11878, licensed out to Lucence Diagnostic)
-- IHC-based clinical assay for EBC-129 ADC for cancer. (2021-01-11)
-- CD8+ T-cell prediction with AI in histological images. (Ref. 2024-021)
-- Method for Testing Multiple Tissue Samples on A Single Stereo-seq Spatial Transcriptomics Chip (ASTAR ref Z2024-280; RE 2024-016)
-- Blood-based Biomarkers for Lung Cancer (2024-009 - Z2024-158)
-- Integrated platform for neoantigen identification using patient derived tumor biopsy (2023-010 - IMC/Z/14352)
-- Albumin-based Multifunctional Nanocarriers for Cancer Vaccine Delivery (Z2024-108; PCT/SG2025/050559)
-- Whole slide blood smear assay on slides for high throughput protein and cell analysis (Z2024-755)
-- Whole slide smear imaging assay for high throughput cell culture analysis (Z2024-825)
-- PD-L1-expressing tumour cell prediction on haematoxylin and eosin-stained whole slide images (Z2024-656)
-- Low and High Molecular Weight Protein Enrichment (Z2024-690)
-- A computer-implemented method for cell-level detection a prediction of cancer biomarker associated features (ref: IP2024-030-01; PCT/SG2025/050432)
-- Antibody-drug conjugate target protein expression prediction on haematoxylin and eosin-stained whole slide images (Z2024-655, Licensed to ViewsML.)
-- Predictive Model for Mortality Risk Stratification Using Laboratory Biomarkers in Singaporeans (TD 2025-020, Licensed to Lucence Diagnostics)
+- 人和动物组织切片七色免疫荧光自动染色方案，用于诊断和预后（TEC-18-96）
+- PD-L1 单克隆抗体作为诊断工具，预测癌症中抗 PD-L1 和抗 PD-1 免疫治疗的反应（IMC/Z/12757）
+- CD38 的 IHC 染色预测抗 PD-1 免疫治疗反应（TEC-18-92）及内部工程抗体（2023-019）
+- CD39 的 IHC 染色预测 PD-1/PD-L1 抑制剂免疫治疗反应（IMC/Z/11149）及内部工程抗体（IMC/Z/13882）
+- PD-L2 单克隆抗体作为诊断工具，预测癌症中抗 PD-L1 和抗 PD-1 免疫治疗的反应（2023-020）
+- 用于 CD39 和 PD-L1 检测的直接多重免疫组化原型试剂盒开发方法（2023-021）
+- 74 种用于免疫组化（IHC）的优化抗体（IMC/Z/13562，授权给 ImmunoQs。）
+- 多重免疫组化/免疫荧光（mIHC/IF）用于三阴性乳腺癌 PD-L1 检测：与常规 IHC 相比的转化检测试剂（DxD/Z/11878，授权给 Lucence Diagnostic）
+- 基于 IHC 的 EBC-129 ADC 癌症临床检测（2021-01-11）
+- AI 在组织学图像中预测 CD8+ T 细胞（Ref. 2024-021）
+- 在单个 Stereo-seq 空间转录组芯片上测试多个组织样品的方法（ASTAR ref Z2024-280；RE 2024-016）
+- 基于血液的肺癌生物标志物（2024-009 - Z2024-158）
+- 使用患者来源肿瘤活检进行新抗原识别的整合平台（2023-010 - IMC/Z/14352）
+- 基于白蛋白的多功能纳米载体用于癌症疫苗递送（Z2024-108；PCT/SG2025/050559）
+- 载玻片上全片血涂片检测，用于高通量蛋白质和细胞分析（Z2024-755）
+- 全片涂片成像检测，用于高通量细胞培养分析（Z2024-825）
+- 苏木精和伊红染色全片图像上表达 PD-L1 的肿瘤细胞预测（Z2024-656）
+- 低分子量和高分子量蛋白质富集（Z2024-690）
+- 用于细胞水平检测和预测癌症生物标志物相关特征的计算机实现方法（ref：IP2024-030-01；PCT/SG2025/050432）
+- 苏木精和伊红染色全片图像上抗体-药物偶联物靶蛋白表达预测（Z2024-655，授权给 ViewsML。）
+- 使用实验室生物标志物的新加坡人死亡率风险分层预测模型（TD 2025-020，授权给 Lucence Diagnostics）
 
 ---
 
-## Professional Membership
+## 专业会员资格
 
-- **Co-founder** World Immunotherapy Council Asian Chapter
-- **Co-Chair** World Immunotherapy Council 2019, 2023, 2025
-- **Committee Member** of Society of Immunotherapy for Cancer (SITC)
-- **Co-founder and Committee Member Clinical Day (CLINICCAI)** of International Conference on Medical Image Computing and Computer Assisted Intervention, **MICCAI**
-- **Executive Secretary** of Singapore Society of Oncology – Cancer immunotherapy consortium
-- **Education/Diagnostics Co-Lead**, **SingHealth Duke-NUS** Cell Therapy Centre
-- **Executive Committee Member**, Singapore Society of Pathology
-- **Founder**, Spatial JEDI Council
-- **Board & Committee Member**, **Asian Society of Digital Pathology** (ASDP)
-- **Board member**, Digital Pathology Special Interest Group, MICCAI
-- **Lead & Committee Member** of Society for Immunotherapy for Cancer (SITC)
-- **Committee Member**, Cancer Peak, Singapore General Hospital
-- **Membership** of United States and Canada Academy of Pathology (USCAP)
-- **Fellow** of British Royal College of Pathologist (RCPath)
-- **Membership** of Pathology Society of Great Britain and Ireland (SocPath)
-- **Membership** of Singaporean Society for Immunology (SgSi)
-- **Adjunct Membership** of International Academy of Pathology (IAP) - Singapore Division
-- **Membership** of European Society of Pathology
-- **NIH Alliance** of Digital Pathology
-- **Singapore Biodesign Alumni** (Winner of BEP program 2021)
-- **Member Board of Directors**, African & Asian Society of Digital Pathology (ASDP)
-- **Board Member**, Medical Image Computing and Computer Assisted Intervention (MICCAI) Society
-- **Board Member**, MICCAI Special Interest Group on Computational Pathology
-- **Committee member**, American Society of Clinical Oncology (ASCO)
+- **联合创始人** 世界免疫治疗委员会亚洲分会
+- **联合主席** 世界免疫治疗委员会 2019、2023、2025
+- **委员会委员** 癌症免疫治疗学会（SITC）
+- **联合创始人和委员 临床日（CLINICCAI）** 医学影像计算和计算机辅助干预国际会议，**MICCAI**
+- **执行秘书** 新加坡肿瘤学会 – 癌症免疫治疗联盟
+- **教育/诊断联合负责人**，**SingHealth Duke-NUS** 细胞治疗中心
+- **执行委员会委员**，新加坡病理学会
+- **创始人**，空间 JEDI 理事会
+- **董事会和委员会委员**，**亚洲数字病理学会**（ASDP）
+- **董事会成员**，数字病理专业兴趣小组，MICCAI
+- **负责人和委员会委员** 癌症免疫治疗学会（SITC）
+- **委员会委员**，癌症高峰，新加坡综合医院
+- **会员** 美国和加拿大病理学院（USCAP）
+- **院士** 英国皇家病理学家学院（RCPath）
+- **会员** 英国和爱尔兰病理学会（SocPath）
+- **会员** 新加坡免疫学会（SgSi）
+- **副会员** 国际病理学会（IAP）- 新加坡分会
+- **会员** 欧洲病理学会
+- **NIH 联盟** 数字病理
+- **新加坡生物设计校友**（2021 年 BEP 项目获奖者）
+- **董事会成员**，非洲和亚洲数字病理学会（ASDP）
+- **董事会成员**，医学影像计算和计算机辅助干预（MICCAI）学会
+- **董事会成员**，MICCAI 计算病理学专业兴趣小组
+- **委员会委员**，美国临床肿瘤学会（ASCO）

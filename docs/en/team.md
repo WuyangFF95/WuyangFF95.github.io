@@ -1,4 +1,4 @@
-# 我们的团队
+# Our Team
 
 <style>
 .team-grid {
@@ -99,7 +99,7 @@
 }
 </style>
 
-## 首席研究员
+## Principal Investigator
 
 <div class="team-grid">
 
@@ -109,11 +109,11 @@
 </div>
 <div class="member-name">Dr. Joe Poh Sheng YEONG (MBBS, PhD, FRCPath)
 </div>
-<div class="member-role">首席研究员</div>
-<div class="member-research">领导空间组学和计算生物学研究</div>
+<div class="member-role">Principal Investigator</div>
+<div class="member-research">Leading research in spatial omics and computational biology</div>
 <div class="social-links">
 <a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="ORCID">
-  <img src="/images/social/orcid-icon.svg" alt="ORCID 简介" />
+  <img src="/images/social/orcid-icon.svg" alt="ORCID Profile" />
 </a>
 <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -132,7 +132,7 @@
 
 </div>
 
-## 研究官员
+## Research Officers
 
 <div class="team-grid">
 
@@ -141,8 +141,8 @@
 <div class="member-placeholder">LX</div>
 </div>
 <div class="member-name">LIM Xinru, BSc</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">实验室经理、研究管理、衰老和免疫学研究</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Lab Manager, Research Administration, Ageing and immunology studies</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/xinru-l-2435a6138/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -165,8 +165,8 @@
 <div class="member-placeholder">CJ</div>
 </div>
 <div class="member-name">Craig Ryan Cecil JOSEPH, BSc (Biology), BSc (Psy)</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">服务平台经理、组织病理学、空间生物学</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Service Platform Manager, Histopathology, Spatial Biology</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/craig-ryan-cecil-joseph/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -185,8 +185,8 @@
 <div class="member-placeholder">FW</div>
 </div>
 <div class="member-name">Felicia WEE, BSc</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">组织病理学、AI 驱动组织病理学、空间蛋白质组学分析</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Histopathology, AI-driven histopathology, spatial proteomics analysis</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/felicia-wee-b284b6156/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -205,8 +205,8 @@
 <img src="/images/team/neo-zhen-wei.jpg" alt="NEO Zhen Wei" />
 </div>
 <div class="member-name">NEO Zhen Wei, MHSM</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">组织病理学、免疫肿瘤学、空间转录组学</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Histopathology, Immuno-oncology, spatial transcriptomics</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/zhen-wei-neo-88868415a/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -225,8 +225,8 @@
 <img src="/images/team/chong-li-yen.jpg" alt="CHONG Li Yen" />
 </div>
 <div class="member-name">CHONG Li Yen, MSc</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">免疫组织学、空间蛋白质组学</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Immunohistology, spatial proteomics</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/liyenliyen/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -245,8 +245,8 @@
 <div class="member-placeholder">DG</div>
 </div>
 <div class="member-name">Denise GOH, BSc (Hons)</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">科学传播与研究管理</div>
+<div class="member-role">Senior Research Officer</div>
+<div class="member-research">Scientific Communication and Research Management</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/denise-goh/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -271,8 +271,8 @@
 <img src="/images/team/li-ruisi.jpg" alt="LI Ruisi" />
 </div>
 <div class="member-name">LI Ruisi, MSc</div>
-<div class="member-role">研究官员</div>
-<div class="member-research">AI 驱动组织病理学分析和空间转录组学分析</div>
+<div class="member-role">Research Officer</div>
+<div class="member-research">AI-driven histopathology analysis and spatial transcriptomics analysis</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/ruisili" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -291,8 +291,8 @@
 <div class="member-placeholder">TW</div>
 </div>
 <div class="member-name">Timthony Obi WANG, BSc</div>
-<div class="member-role">研究官员</div>
-<div class="member-research">AI 建模、AI 驱动组织病理学</div>
+<div class="member-role">Research Officer</div>
+<div class="member-research">AI-modeling, AI-driven histopathology</div>
 <div class="social-links">
 <a href="mailto:timothy_wang@a-star.edu.sg" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
@@ -305,8 +305,8 @@
 <div class="member-placeholder">KN</div>
 </div>
 <div class="member-name">NG Kai Soon, BSc</div>
-<div class="member-role">研究官员</div>
-<div class="member-research">分子与细胞生物学</div>
+<div class="member-role">Research Officer</div>
+<div class="member-research">Molecular and Cellular Biology</div>
 <div class="social-links">
 <a href="mailto:ng_kai_soon@a-star.edu.sg" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
@@ -316,7 +316,7 @@
 
 </div>
 
-## 研究科学家
+## Research Scientists
 
 <div class="team-grid">
 
@@ -325,8 +325,8 @@
 <img src="/images/team/parthiban-periasamy.jpg" alt="Parthiban PERIASAMY" />
 </div>
 <div class="member-name">Parthiban PERIASAMY, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">蛋白质基因组学与质谱分析、多组学整合、计算精准肿瘤学</div>
+<div class="member-role">Research Scientist</div>
+<div class="member-research">Proteogenomics & Mass Spectrometry, Multi-Omics Integration, Computational Precision Oncology</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/parthiban-periasamy/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -348,8 +348,8 @@
 <div class="member-placeholder">YJ</div>
 </div>
 <div class="member-name">YE Jiangfeng, MMed, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">生物统计学、公共卫生</div>
+<div class="member-role">Research Scientist</div>
+<div class="member-research">Biostatistics, Public Health</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/jiangfeng-ye-5b59134a/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -365,8 +365,8 @@
 <div class="member-placeholder">YW</div>
 </div>
 <div class="member-name">WU Yang, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">单细胞转录组学、空间转录组学、空间蛋白质基因组学</div>
+<div class="member-role">Research Scientist</div>
+<div class="member-research">Single-cell transcriptomics, Spatial transcriptomics, spatial proteogenomics</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/yang-wu-59306283/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -385,8 +385,8 @@
 <div class="member-placeholder">RF</div>
 </div>
 <div class="member-name">Rachel Elizabeth Ann FINCHAM, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">AI 研究与计算分析</div>
+<div class="member-role">Research Scientist</div>
+<div class="member-research">AI research and computational analysis</div>
 <div class="social-links">
 <a href="https://www.linkedin.com/in/rachel-fincham/" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
@@ -402,7 +402,7 @@
 
 </div>
 
-## 访问学者
+## Visiting Scholars
 
 <div class="team-grid">
 
@@ -411,8 +411,8 @@
 <img src="/images/team/wang-zhengyang.jpg" alt="WANG Zhengyang" />
 </div>
 <div class="member-name">WANG Zhengyang, MD</div>
-<div class="member-role">访问学者</div>
-<div class="member-research">组织病理学、肝脏疾病发病机制</div>
+<div class="member-role">Visiting Scholar</div>
+<div class="member-research">Histopathology, Pathogenesis of Liver Diseases</div>
 <div class="social-links">
 <a href="https://orcid.org/0000-0001-6045-2269" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
@@ -428,8 +428,8 @@
 <img src="/images/team/zhu-zhu.jpg" alt="ZHU Zhu" />
 </div>
 <div class="member-name">ZHU Zhu, MD</div>
-<div class="member-role">访问学者</div>
-<div class="member-research">组织病理学</div>
+<div class="member-role">Visiting Scholar</div>
+<div class="member-research">Histopathology</div>
 <div class="social-links">
 <a href="https://orcid.org/0000-0002-3117-2548" target="_blank" title="ORCID">
 <img src="/images/social/orcid-icon.svg" alt="ORCID" />
@@ -442,7 +442,7 @@
 
 </div>
 
-## 博士生
+## PhD Students
 
 <div class="team-grid">
 
@@ -451,8 +451,8 @@
 <img src="/images/team/you-ruochii.jpg" alt="YOU Ruochii" />
 </div>
 <div class="member-name">YOU Ruochii, BEng</div>
-<div class="member-role">博士生</div>
-<div class="member-research">癌症临床前模型</div>
+<div class="member-role">PhD Student</div>
+<div class="member-research">Cancer preclinical models</div>
 <div class="social-links">
 <a href="https://scholar.google.com/citations?user=UdiWPvQAAAAJ" target="_blank" title="Google Scholar">
 <img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
@@ -467,4 +467,4 @@
 
 ---
 
-*我们的团队致力于通过创新研究和合作努力推进空间生物学领域。*
+*Our team is dedicated to advancing the field of spatial biology through innovative research and collaborative efforts.*

@@ -1,11 +1,11 @@
-# Join Our Team
+# 加入我们的团队
 
-We are always looking for motivated researchers to join our laboratory. If you are interested in spatial omics research and computational biology, please contact us to discuss potential opportunities.
+我们一直在寻找积极进取的研究人员加入我们的实验室。如果您对空间组学研究和计算生物学感兴趣，请联系我们讨论潜在的机会。
 
-### Current Openings
+### 当前职位空缺
 
-*[Current position openings to be listed]*
+*[当前职位空缺待列出]*
 
-### How to Apply
+### 申请方式
 
-For inquiries about joining our laboratory, please send your CV and a brief cover letter describing your research interests and career goals.
+如需咨询加入我们的实验室，请发送您的简历和简短的求职信，说明您的研究兴趣和职业目标。
