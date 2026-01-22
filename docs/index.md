@@ -1,23 +1,33 @@
-# AI³: AI + 免疫学、创新、智能
+# Welcome / 欢迎
 
-## 欢迎来到 Joe Poh Sheng YEONG 教授的 AI 免疫学实验室
+## WU Yang / 武洋
 
-我们专注于 AI 在免疫学、肿瘤病理学、空间多组学领域的尖端研究，以了解肿瘤诊疗（诊断 + 治疗）。
+Personal Website of Researcher WU Yang / 武洋研究员个人网站
 
-### 研究重点
+<!-- Research Photo Placeholder -->
+<!-- 研究员照片占位符 -->
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/team/placeholder.svg" alt="WU Yang / 武洋" style="max-width: 300px; border-radius: 50%;" />
+</div>
 
-我们实验室的专业领域包括：
+### About / 简介
 
-- 肿瘤病理学中的人类专家与 AI 模型
-- 多组学与空间多组学整合数据分析
-- 生物标志物发现与验证
-- 转化研究应用 - AIDD、癌症疫苗和伴随诊断检测试剂开发
+<!-- Brief introduction placeholder -->
+<!-- 简介占位符 -->
+Researcher focusing on [Research Field Placeholder / 研究领域占位符]. / 专注于[研究领域占位符]的研究员。
 
-### 最新新闻
+### Research Focus / 研究方向
 
-敬请关注我们最新的研究发现、出版物和实验室成就。
+<!-- Research focus placeholder -->
+<!-- 研究方向占位符 -->
+- [Research Area 1 / 研究方向1]
+- [Research Area 2 / 研究方向2]
+- [Research Area 3 / 研究方向3]
 
----
+### Latest News / 最新动态
+
+Stay tuned for updates on latest research findings, publications, and achievements.
+敬请关注最新研究成果、出版物和成就的更新。
 
 *有关我们研究、团队和机会的更多信息，请浏览上方导航菜单。*
 

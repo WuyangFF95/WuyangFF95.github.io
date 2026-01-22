@@ -1,24 +1,23 @@
 export default {
   // Default locale (Chinese)
-  title: 'Joe Yeong 实验室',
-  description: 'Joe Poh Sheng YEONG 实验室 - 空间组学研究',
+  title: 'WU Yang',
+  description: 'Personal Website of WU Yang - Researcher / 研究员',
 
   // i18n configuration
   locales: {
     root: {
       label: '中文',
       lang: 'zh-CN',
-      title: 'Joe Yeong 实验室',
+      title: 'WU Yang',
       description: 'Joe Poh Sheng YEONG 实验室 - 空间组学研究'
     },
     en: {
       label: 'English',
       lang: 'en-US',
       title: 'Joe Yeong Lab',
-      description: 'Laboratory of Joe Poh Sheng YEONG - Spatial Omics Research'
+      description: 'Personal Website of WU Yang - Researcher / 研究员'
     }
   },
-
   base: '/',
 
   themeConfig: {
@@ -53,8 +52,8 @@ export default {
     ],
 
     footer: {
-      message: 'Joe Yeong 实验室 - 空间组学研究',
-      copyright: '版权所有 © 2025 Joe Poh Sheng YEONG'
+      message: 'WU Yang - Personal Website / 武洋个人网站',
+      copyright: 'Copyright © 2025 WU Yang / 武洋'
     },
 
     // English locale configuration
@@ -83,12 +82,7 @@ export default {
               { text: 'Contact', link: '/en/contact' }
             ]
           }
-        ],
-
-        footer: {
-          message: 'Joe Yeong Laboratory - Spatial Omics Research',
-          copyright: 'Copyright © 2025 Joe Poh Sheng YEONG'
-        }
+        ]
       }
     }
   }

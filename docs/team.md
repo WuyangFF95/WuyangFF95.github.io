@@ -9,7 +9,7 @@
 }
 
 .member-card {
-  background: #f8f9fa;
+  background: var(--vp-c-bg-soft);
   border-radius: 12px;
   padding: 1.5rem;
   text-align: center;
@@ -28,8 +28,8 @@
   margin: 0 auto 1rem;
   border-radius: 8px;
   overflow: hidden;
-  border: 3px solid #e9ecef;
-  background: #f8f9fa;
+  border: 3px solid var(--vp-c-border);
+  background: var(--vp-c-bg-soft);
 }
 
 .member-avatar img {
@@ -55,19 +55,19 @@
 .member-name {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #2c3e50;
+  color: var(--vp-c-text-1);
   margin-bottom: 0.5rem;
 }
 
 .member-role {
   font-size: 1rem;
-  color: #6c757d;
+  color: var(--vp-c-text-2);
   margin-bottom: 1rem;
 }
 
 .member-research {
   font-size: 0.9rem;
-  color: #495057;
+  color: var(--vp-c-text-2);
   line-height: 1.4;
   margin-bottom: 1rem;
 }
@@ -99,216 +99,31 @@
 }
 </style>
 
-## 首席研究员
+## 首席研究员（PI）
 
 <div class="team-grid">
 
 <div class="member-card">
 <div class="member-avatar">
-<img src="/images/team/joe-yeong.jpg" alt="Joe Poh Sheng YEONG" />
+<img src="/images/team/placeholder.svg" alt="WU Yang / 武洋" />
 </div>
-<div class="member-name">Dr. Joe Poh Sheng YEONG (MBBS, PhD, FRCPath)
-</div>
-<div class="member-role">首席研究员</div>
-<div class="member-research">领导空间组学和计算生物学研究</div>
+<div class="member-name">WU Yang, PhD / 武洋 博士</div>
+<div class="member-role">Researcher / 研究员</div>
+<div class="member-research">[Research Focus Placeholder / 研究重点占位符]</div>
 <div class="social-links">
-<a href="https://orcid.org/0000-0002-6674-7153" target="_blank" class="ORCID">
-  <img src="/images/social/orcid-icon.svg" alt="ORCID 简介" />
-</a>
-<a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" title="LinkedIn">
+<a href="[LinkedIn URL Placeholder]" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
-<a href="https://www.researchgate.net/profile/Joe-Yeong-2" target="_blank" title="ResearchGate">
+<a href="[ORCID URL Placeholder]" target="_blank" title="ORCID">
+<img src="/images/social/orcid-icon.svg" alt="ORCID" />
+</a>
+<a href="[ResearchGate URL Placeholder]" target="_blank" title="ResearchGate">
 <img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
 </a>
-<a href="https://scholar.google.com/citations?user=zSDQ4D8AAAAJ" target="_blank" title="Google Scholar">
+<a href="[Google Scholar URL Placeholder]" target="_blank" title="Google Scholar">
 <img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
 </a>
-<a href="mailto:yeongps@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-</div>
-
-## 研究官员
-
-<div class="team-grid">
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">LX</div>
-</div>
-<div class="member-name">LIM Xinru, BSc</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">实验室经理、研究管理、衰老和免疫学研究</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/xinru-l-2435a6138/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0005-4890-1478" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="https://www.researchgate.net/profile/Xinru_Lim" target="_blank" title="ResearchGate">
-<img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
-</a>
-<a href="mailto:limxr@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">CJ</div>
-</div>
-<div class="member-name">Craig Ryan Cecil JOSEPH, BSc (Biology), BSc (Psy)</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">服务平台经理、组织病理学、空间生物学</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/craig-ryan-cecil-joseph/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0004-5326-9692" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:craig_joseph@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">FW</div>
-</div>
-<div class="member-name">Felicia WEE, BSc</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">组织病理学、AI 驱动组织病理学、空间蛋白质组学分析</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/felicia-wee-b284b6156/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0004-7624-3751" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:feliwee@gmail.com" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<img src="/images/team/neo-zhen-wei.jpg" alt="NEO Zhen Wei" />
-</div>
-<div class="member-name">NEO Zhen Wei, MHSM</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">组织病理学、免疫肿瘤学、空间转录组学</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/zhen-wei-neo-88868415a/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0004-9582-9299" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:neo.zhen.wei@sgh.com.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<img src="/images/team/chong-li-yen.jpg" alt="CHONG Li Yen" />
-</div>
-<div class="member-name">CHONG Li Yen, MSc</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">免疫组织学、空间蛋白质组学</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/liyenliyen/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0000-0002-4623-4633" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:chong_li_yen@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">DG</div>
-</div>
-<div class="member-name">Denise GOH, BSc (Hons)</div>
-<div class="member-role">高级研究官员</div>
-<div class="member-research">科学传播与研究管理</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/denise-goh/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0000-0003-4598-4181" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="https://www.researchgate.net/profile/Denise-Goh-3" target="_blank" title="ResearchGate">
-<img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
-</a>
-<a href="https://scholar.google.com/citations?user=I8aRZb4AAAAJ" target="_blank" title="Google Scholar">
-<img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
-</a>
-<a href="mailto:denise_goh@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<img src="/images/team/li-ruisi.jpg" alt="LI Ruisi" />
-</div>
-<div class="member-name">LI Ruisi, MSc</div>
-<div class="member-role">研究官员</div>
-<div class="member-research">AI 驱动组织病理学分析和空间转录组学分析</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/ruisili" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0003-5576-8228" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:s230036@ntu.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">TW</div>
-</div>
-<div class="member-name">Timthony Obi WANG, BSc</div>
-<div class="member-role">研究官员</div>
-<div class="member-research">AI 建模、AI 驱动组织病理学</div>
-<div class="social-links">
-<a href="mailto:timothy_wang@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">KN</div>
-</div>
-<div class="member-name">NG Kai Soon, BSc</div>
-<div class="member-role">研究官员</div>
-<div class="member-research">分子与细胞生物学</div>
-<div class="social-links">
-<a href="mailto:ng_kai_soon@a-star.edu.sg" target="_blank" title="Email">
+<a href="mailto:[Email Placeholder]" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
@@ -318,26 +133,22 @@
 
 ## 研究科学家
 
+<!-- Team members placeholder -->
+<!-- 团队成员占位符 -->
 <div class="team-grid">
 
 <div class="member-card">
 <div class="member-avatar">
-<img src="/images/team/parthiban-periasamy.jpg" alt="Parthiban PERIASAMY" />
+<div class="member-placeholder">TM</div>
 </div>
-<div class="member-name">Parthiban PERIASAMY, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">蛋白质基因组学与质谱分析、多组学整合、计算精准肿瘤学</div>
+<div class="member-name">[Team Member Name / 团队成员姓名]</div>
+<div class="member-role">[Role / 职位]</div>
+<div class="member-research">[Research Focus / 研究重点]</div>
 <div class="social-links">
-<a href="https://www.linkedin.com/in/parthiban-periasamy/" target="_blank" title="LinkedIn">
+<a href="[LinkedIn URL]" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
-<a href="https://www.researchgate.net/profile/Parthiban-Periasamy" target="_blank" title="ResearchGate">
-<img src="/images/social/researchgate-icon.svg" alt="ResearchGate" />
-</a>
-<a href="https://scholar.google.com/citations?user=OEZYXTgAAAAJ" target="_blank" title="Google Scholar">
-<img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
-</a>
-<a href="mailto:parthiban_periasamy@a-star.edu.sg" target="_blank" title="Email">
+<a href="mailto:[Email]" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
@@ -345,16 +156,16 @@
 
 <div class="member-card">
 <div class="member-avatar">
-<div class="member-placeholder">YJ</div>
+<div class="member-placeholder">TM</div>
 </div>
-<div class="member-name">YE Jiangfeng, MMed, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">生物统计学、公共卫生</div>
+<div class="member-name">[Team Member Name / 团队成员姓名]</div>
+<div class="member-role">[Role / 职位]</div>
+<div class="member-research">[Research Focus / 研究重点]</div>
 <div class="social-links">
-<a href="https://www.linkedin.com/in/jiangfeng-ye-5b59134a/" target="_blank" title="LinkedIn">
+<a href="[LinkedIn URL]" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
-<a href="mailto:ye_jf@nus.edu.sg" target="_blank" title="Email">
+<a href="mailto:[Email]" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
@@ -362,39 +173,16 @@
 
 <div class="member-card">
 <div class="member-avatar">
-<div class="member-placeholder">YW</div>
+<div class="member-placeholder">TM</div>
 </div>
-<div class="member-name">WU Yang, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">单细胞转录组学、空间转录组学、空间蛋白质基因组学</div>
+<div class="member-name">[Team Member Name / 团队成员姓名]</div>
+<div class="member-role">[Role / 职位]</div>
+<div class="member-research">[Research Focus / 研究重点]</div>
 <div class="social-links">
-<a href="https://www.linkedin.com/in/yang-wu-59306283/" target="_blank" title="LinkedIn">
+<a href="[LinkedIn URL]" target="_blank" title="LinkedIn">
 <img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
 </a>
-<a href="https://orcid.org/0000-0002-1837-8330" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:wu_yang@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-<div class="member-card">
-<div class="member-avatar">
-<div class="member-placeholder">RF</div>
-</div>
-<div class="member-name">Rachel Elizabeth Ann FINCHAM, PhD</div>
-<div class="member-role">研究科学家</div>
-<div class="member-research">AI 研究与计算分析</div>
-<div class="social-links">
-<a href="https://www.linkedin.com/in/rachel-fincham/" target="_blank" title="LinkedIn">
-<img src="/images/social/linkedin-icon.svg" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0000-0002-4699-5002" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:fincham.rachel.e.a@sgh.com.sg" target="_blank" title="Email">
+<a href="mailto:[Email]" target="_blank" title="Email">
 <img src="/images/social/email-icon.svg" alt="Email" />
 </a>
 </div>
@@ -404,63 +192,26 @@
 
 ## 访问学者
 
+<!-- Collaborators placeholder -->
+<!-- 合作者占位符 -->
 <div class="team-grid">
 
 <div class="member-card">
 <div class="member-avatar">
-<img src="/images/team/wang-zhengyang.jpg" alt="WANG Zhengyang" />
+<div class="member-placeholder">CM</div>
 </div>
-<div class="member-name">WANG Zhengyang, MD</div>
-<div class="member-role">访问学者</div>
-<div class="member-research">组织病理学、肝脏疾病发病机制</div>
-<div class="social-links">
-<a href="https://orcid.org/0000-0001-6045-2269" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:zywang0318@zzu.edu.cn" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
+<div class="member-name">[Collaborator Name / 合作者姓名]</div>
+<div class="member-role">[Institution / 机构]</div>
+<div class="member-research">[Research Focus / 研究重点]</div>
 </div>
 
 <div class="member-card">
 <div class="member-avatar">
-<img src="/images/team/zhu-zhu.jpg" alt="ZHU Zhu" />
+<div class="member-placeholder">CM</div>
 </div>
-<div class="member-name">ZHU Zhu, MD</div>
-<div class="member-role">访问学者</div>
-<div class="member-research">组织病理学</div>
-<div class="social-links">
-<a href="https://orcid.org/0000-0002-3117-2548" target="_blank" title="ORCID">
-<img src="/images/social/orcid-icon.svg" alt="ORCID" />
-</a>
-<a href="mailto:zhuzhu0501@zzu.edu.cn" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
-</div>
-
-</div>
-
-## 博士生
-
-<div class="team-grid">
-
-<div class="member-card">
-<div class="member-avatar">
-<img src="/images/team/you-ruochii.jpg" alt="YOU Ruochii" />
-</div>
-<div class="member-name">YOU Ruochii, BEng</div>
-<div class="member-role">博士生</div>
-<div class="member-research">癌症临床前模型</div>
-<div class="social-links">
-<a href="https://scholar.google.com/citations?user=UdiWPvQAAAAJ" target="_blank" title="Google Scholar">
-<img src="/images/social/scholar-icon.svg" alt="Google Scholar" />
-</a>
-<a href="mailto:yourc@a-star.edu.sg" target="_blank" title="Email">
-<img src="/images/social/email-icon.svg" alt="Email" />
-</a>
-</div>
+<div class="member-name">[Collaborator Name / 合作者姓名]</div>
+<div class="member-role">[Institution / 机构]</div>
+<div class="member-research">[Research Focus / 研究重点]</div>
 </div>
 
 </div>

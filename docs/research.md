@@ -58,99 +58,31 @@ Joe Yeong 实验室致力于通过创新研究和计算方法推进空间组学�
 
 ### 近期发表论文
 
-1. Spatial immune scoring system predicts hepatocellular carcinoma recurrence. Nature
-2. Mixture of experts in large language models. arXiv preprint
-3. A Foundation Model for Spatial Proteomics. arXiv preprint
-4. The Hurdle of Precision Medicine in Cancer Immunotherapy: Personalization Now or Then? Cancer Personalized Treatment
-5. An integrated approach for analyzing spatially resolved multi-omics datasets from the same tissue section. Frontiers in Molecular Biosciences
-6. Asia's emergence in cancer immunotherapy: challenges and opportunities. Journal for ImmunoTherapy of Cancer
-7. Training immunophenotyping deep learning models with the same-section ground truth cell label derivation method improves virtual staining accuracy. Response/Resistance to PD-1 Axis Inhibitors
-8. Advancing Tissue Biology Research With Weave Software For Spatial Multi-Omics. MDPI
-9. H&E 2.0: deep learning prediction of lung cancer biomarkers pan-cytokeratin and PD-L1 using a dual model framework. Journal for ImmunoTherapy of Cancer
-10. A Novel Manual "Centrifuged-Enhanced" Cytosmear Technique for Improving Hypocellular Cytology in the Diagnosis of Vitreoretinal Lymphoma. Translational Vision Science & Technology
-11. Charting New Paths in Cancer Research: Insights from the Frontiers in Cancer Science Conference 2024. Cancer Research
-12. Achieving Trustworthy Real-Time Decision Support Systems with Low-Latency Interpretable AI Models. arXiv preprint
-13. Developing cell-based therapies for pancreatic ductal adenocarcinoma. The Journal of Clinical Investigation
-14. Single‐Cell Profiling: Any Scale, Any Size, All at Once. Advanced Science
+1. [Publication 1 Placeholder / 出版物1占位符]
+2. [Publication 2 Placeholder / 出版物2占位符]
+3. [Publication 3 Placeholder / 出版物3占位符]
+4. [Publication 4 Placeholder / 出版物4占位符]
+5. [Publication 5 Placeholder / 出版物5占位符]
 
 ### 所有发表论文
 
 #### 2025
 
-1. Spatial immune scoring system predicts hepatocellular carcinoma recurrence
-2. Society for Immunotherapy of Cancer (SITC) consensus statement on essential biomarkers for immunotherapy clinical protocols
-3. Spatially resolved tumor ecosystems and cell states in gastric adenocarcinoma progression and evolution
-4. Nonuniversality of inflammaging across human populations
-5. A Foundation Model for Spatial Proteomics
-6. Mixture of experts in large language models
-7. Tumor immune microenvironment delineates progression trajectories of distinct nasopharyngeal carcinoma phenotypes
-8. Tumor-immune partitioning and clustering algorithm for identifying tumor-immune cell spatial interaction signatures within the tumor microenvironment
-9. The Hurdle of Precision Medicine in Cancer Immunotherapy: Personalization Now or Then?
-10. An integrated approach for analyzing spatially resolved multi-omics datasets from the same tissue section
-11. Spatial heterogeneity, stromal phenotypes, and therapeutic vulnerabilities in colorectal cancer peritoneal metastasis
-12. Clinical activity of EBC-129, a first-in class, anti N256-glycosylated CEACAM5 and CEACAM6 antibody-drug conjugate (ADC), in patients with pancreatic ductal adenocarcinoma (PDAC) in a phase 1 study.
-13. Asia's emergence in cancer immunotherapy: challenges and opportunities
-14. Single cell AI-prediction of protein biomarker on novel whole slide unstained blood smear images
-15. EGFR mutation status affects intra-tumoural heterogeneity of PD-L1 expression but not agreement between assays in resectable non-small cell lung cancer
-16. Manufacturing characteristics and early outcomes of a tandem aCD22-aCD19 CAR-T therapy for childhood and adult relapsed/refractory acute precursor B lymphoblastic leukemia
-17. Training immunophenotyping deep learning models with the same-section ground
-18. Advancing Tissue Biology Research With Weave Software For Spatial Multi-Omics
-19. 1089 H&E 2.0: deep learning prediction of lung cancer biomarkers pan-cytokeratin and PD-L1 using a dual model framework
-20. 1106 H&E 3.0: Pix2Pix-based virtual haematoxylin and eosin staining from greyscale images with feature comparison
-21. Multiomic signatures of durable response in a Phase I/II trial of tandem aCD22-aCD19 CAR-T therapy for relapsed B-lineage acute lymphoblastic leukaemia
-22. A Novel Manual "Centrifuged-Enhanced" Cytosmear Technique for Improving Hypocellular Cytology in the Diagnosis of Vitreoretinal Lymphoma
-23. Author Correction: Spatial immune scoring system predicts hepatocellular carcinoma recurrence
-24. Charting New Paths in Cancer Research: Insights from the Frontiers in Cancer Science Conference 2024
-25. Achieving Trustworthy Real-Time Decision Support Systems with Low-Latency Interpretable AI Models
-26. Using longitudinal spatial-omics to demonstrate in-situ Epstein-Barr virus reduction in responders to immunotherapy treated nasopharyngeal cancer.
-27. Lung cancer risk prediction in Asian populations: A study of immune signatures from the Singapore Longitudinal Ageing Studies
-28. Longitudinal blood-based immuno-monitoring reveals distinct immune profiles in colorectal cancer patients with divergent responses to first-line systemic therapy
-29. The aged tumor microenvironment limits T cell control of breast cancer
-30. Decoding cancer prevention: Exercise, dark proteome signatures, and spatial proteomics
-31. Developing cell-based therapies for pancreatic ductal adenocarcinoma
-32. Single‐Cell Profiling: Any Scale, Any Size, All at Once
-33. Spatial Technologies: A Game Changer for Studying the Tumor Microenvironment
+<!-- 2025 publications placeholder -->
+<!-- 2025年出版物占位符 -->
+1. [Publication 1 Placeholder / 出版物1占位符]
+2. [Publication 2 Placeholder / 出版物2占位符]
 
 #### 2024
 
-1. Phase II DORA study of olaparib with or without durvalumab as a chemotherapy-free maintenance strategy in platinum-pretreated advanced triple-negative breast cancer
-2. Integrative multiomics enhancer activity profiling identifies therapeutic vulnerabilities in cholangiocarcinoma of different etiologies
-3. Bioengineered hydrogels enhance ex vivo preservation of patient-derived tumor explants for drug evaluation
-4. Spatial omics techniques and data analysis for cancer immunotherapy applications
-5. Platelet TLR7 is essential for the formation of platelet–neutrophil complexes and low-density neutrophils in lupus nephritis
-6. The prognostic value of CD39 as a marker of tumor-specific T cells in triple-negative breast cancer in Asian women
-7. Advancements and applications of AI technologies in pathology: a scoping review
-8. Training immunophenotyping deep learning models with the same-section ground truth cell label derivation method improves virtual staining accuracy
-9. Regulation of non‐canonical proteins from diverse origins through the nonsense‐mediated mRNA decay pathway
-10. Bioactive polyethylene-coated nonwovens for wound healing application
-11. The interplay between natural killer cells and pancreatic stellate cells in pancreatic ductal adenocarcinoma
-12. Inflammasome-Driven Fatal Acute-on-Chronic Liver Failure Triggered by Mild COVID-19
-13. Comprehensive molecular characterization of collecting duct carcinoma for therapeutic vulnerability
-14. Deciphering MARCH5's impact on multiple myeloma: insights into autophagy regulation and AKT-FOXO3 signaling
-15. 831 Introducing a software package for integrated visualization and data analysis of spatial omics datasets
-16. 1250 H&E-based cell prediction multi-classification models to capture morphologically distinct subpopulations of CD8+ T cells
-17. A PHASE 1 DOSE ESCALATION STUDY OF EBC-129, A FIRST-IN CLASS, ANTI N-GLYCOSYLATED CEACAM5 & CEACAM6 ANTIBODY-DRUG CONJUGATE (ADC) IN PATIENTS WITH SOLID TUMORS
-18. A phase Ib/II study of pacritinib, an interleukin 1 receptor associated kinase 1 (IRAK1) inhibitor, in patients (pts) with solid tumors harboring the 1q21.3 copy number amplification (CNA).
-19. Association between CH mutation in TET2and solid cancer in elderly Asian women.
-20. A universal pipeline to combine spatial transcriptomics, proteomics, and diagnostic H&E assays on a single tissue section to study tissue microenvironment.
-21. Advances in AI-Enhanced Biomedical Imaging for Cancer Immunology
-22. Automated Hyperplex Protein Staining and Imaging System on Lung Adenocarcinoma Tissue using off-the-shelf Primary Antibodies
-23. INFLAMM-AGING IS NOT A UNIVERSAL AGING MECHANISM ACROSS DIVERSE HUMAN POPULATIONS
-24. Aristolochic acid‐related renal cell carcinoma exhibits a distinct tumor‐immune microenvironment favoring response to immune checkpoint blockade
-25. Proliferative CD8 T-Cells: A Novel Immune Microenvironmental Determinant of Outcomes in Multiple Myeloma with Translocation (4; 14)
-26. 1249 Improving CD8+ cell detection in spatial immunology with generalizable H&E deep learning models trained on diverse clinical scanners
-27. 119 Auto-imaging cytometry on the slide (ICOS) for quality control of CAR-T products
-28. 1348 Evaluation of a cancer vaccine targeting MAGED4B in preventing oral cancer development from oral epithelial dysplasia
-29. 1213 Development and multiplexing of virtual immuno-oncology biomarkers for enhanced research and discovery
-30. 1221 Deciphering cellular features: StyleGAN for enhancing H&E cell classification
-31. P3. 03I. 06 Neoadjuvant Gefitinib in EGFR Mutated NSCLC (a Phase 2 Window-Of-Opportunity Study): Deep Genomic and Transcriptomic Analysis
-32. Effect of tumor-immune microenvironment (TIME) on disparate ascending (A) and descending (D) subtypes of nasopharyngeal carcinoma (NPC).
-33. Abstract P69: Immune Landscape of BRCA1/2 -mutated Breast and Ovarian Cancers in an Asian Cohort
-34. Abstract LT09: Integrative Multi-Omics Enhancer Activity Profiling Identifies Therapeutic Vulnerabilities in Cholangiocarcinoma of Different Etiologies
-35. Abstract LB252: iCellSight: An interactive tool for analyzing and visualizing in-situ high-plex cellular protein data
-36. Prognostic Impact of Tertiary Lymphoid Structures in Triple-Negative Breast Cancer
-37. Spatial Analysis of the Tumor Microenvironment and Gene Expression in LSD1-expressing Triple-negative Breast Cancer (TNBC)
-38. H&E2. 0—Harnessing Artificial Intelligence to Enhance Biomarker Prediction Using Hematoxylin and Eosin-Stained Image
-39. A case of metastatic lymphoepithelial carcinoma of parotid gland identified on 68gallium DOTA-[Tyr3] octreotate PET CT
+<!-- 2024 publications placeholder -->
+<!-- 2024年出版物占位符 -->
+1. [Publication 1 Placeholder / 出版物1占位符]
+2. [Publication 2 Placeholder / 出版物2占位符]
 
-*(Due to the extensive publication list, only recent years are shown. For complete list, please refer to the English version.)*
+#### 2023 and earlier / 2023年及以前
+
+<!-- Earlier publications placeholder -->
+<!-- 更早出版物占位符 -->
+1. [Publication 1 Placeholder / 出版物1占位符]
+2. [Publication 2 Placeholder / 出版物2占位符]
