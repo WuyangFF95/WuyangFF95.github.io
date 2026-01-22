@@ -29,6 +29,6 @@ Researcher focusing on [Research Field Placeholder / 研究领域占位符]. / �
 Stay tuned for updates on latest research findings, publications, and achievements.
 敬请关注最新研究成果、出版物和成就的更新。
 
----
+*有关我们研究、团队和机会的更多信息，请浏览上方导航菜单。*
 
-[Learn more about WU Yang →](/about) / [了解更多关于武洋 →](/about)
+[了解更多关于 Yang Wu 的信息 →](/about-yang)

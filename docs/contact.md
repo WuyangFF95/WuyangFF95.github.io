@@ -78,5 +78,4 @@ Stay connected through online channels:
 - **ResearchGate**: [ResearchGate URL Placeholder]
 - **Google Scholar**: [Google Scholar URL Placeholder]
 - **ORCID**: [ORCID URL Placeholder]
-
 ---

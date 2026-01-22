@@ -1,4 +1,4 @@
-# Team / 团队
+# 我们的团队
 
 <style>
 .team-grid {
@@ -99,7 +99,7 @@
 }
 </style>
 
-## Principal Investigator / 负责人
+## 首席研究员（PI）
 
 <div class="team-grid">
 
@@ -131,7 +131,7 @@
 
 </div>
 
-## Team Members / 团队成员
+## 研究科学家
 
 <!-- Team members placeholder -->
 <!-- 团队成员占位符 -->
@@ -190,7 +190,7 @@
 
 </div>
 
-## Collaborators / 合作者
+## 访问学者
 
 <!-- Collaborators placeholder -->
 <!-- 合作者占位符 -->
@@ -218,4 +218,4 @@
 
 ---
 
-*Our team is dedicated to advancing research through innovative studies and collaborative efforts. / 我们的团队致力于通过创新研究和合作努力推进科学进步。*
+*我们的团队致力于通过创新研究和合作努力推进空间生物学领域。*

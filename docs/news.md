@@ -1,4 +1,4 @@
-# News & Updates / 新闻动态
+# 新闻与动态
 
 <style>
 .news-item {
@@ -92,7 +92,7 @@
 }
 </style>
 
-## Latest News / 最新新闻
+## 最新新闻
 
 <!-- News Item Placeholder -->
 <!-- 新闻条目占位符 -->
@@ -115,12 +115,11 @@
 
 ---
 
-## LinkedIn Updates / LinkedIn动态
+## LinkedIn 更新
 
 <div style="margin: 2rem 0;">
-  <p style="font-size: 1.1rem; color: var(--vp-c-text-1); margin-bottom: 1.5rem;">
-    Follow <a href="[LinkedIn Profile URL Placeholder]" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: bold;">WU Yang</a> on LinkedIn for the latest updates:
-    在LinkedIn上关注<a href="[LinkedIn Profile URL Placeholder]" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: bold;">武洋</a>获取最新动态：
+  <p style="font-size: 1.1rem; color: #2c3e50; margin-bottom: 1.5rem;">
+    在 LinkedIn 上关注 <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank" style="color: #0077b5; text-decoration: none; font-weight: bold;">Joe Yeong</a> 获取最新动态：
   </p>
 
   <ClientOnly>
