@@ -1,18 +1,20 @@
 <template>
   <div class="linkedin-posts-section">
     <div v-if="loading" class="linkedin-loading">
-      <p>Loading LinkedIn posts...</p>
+      <p>Loading LinkedIn posts... / 正在加载LinkedIn动态...</p>
     </div>
     <div v-else-if="error" class="linkedin-error">
-      <p style="margin-bottom: 0.5rem;"><strong>Unable to load LinkedIn posts.</strong></p>
+      <p style="margin-bottom: 0.5rem;"><strong>Unable to load LinkedIn posts. / 无法加载LinkedIn动态。</strong></p>
       <p style="font-size: 0.9rem; margin-top: 0.5rem;">
-        Visit <a href="https://www.linkedin.com/in/joe-yeong/" target="_blank">Joe Yeong's LinkedIn</a> directly.
+        Visit <a href="[LinkedIn Profile URL Placeholder]" target="_blank">WU Yang's LinkedIn / 武洋的LinkedIn</a> directly.
+        直接访问<a href="[LinkedIn Profile URL Placeholder]" target="_blank">武洋的LinkedIn</a>。
       </p>
     </div>
     <div v-else-if="posts.length === 0" class="linkedin-error">
-      <p style="margin-bottom: 0.5rem;"><strong>No LinkedIn posts configured yet.</strong></p>
+      <p style="margin-bottom: 0.5rem;"><strong>No LinkedIn posts configured yet. / 尚未配置LinkedIn动态。</strong></p>
       <p style="font-size: 0.9rem; margin-top: 0.5rem;">
         To add posts, edit <code>docs/public/data/linkedin-posts.json</code> and add post URLs.
+        如需添加动态，请编辑 <code>docs/public/data/linkedin-posts.json</code> 并添加动态URL。
       </p>
     </div>
     <div v-else class="linkedin-posts-container">
@@ -30,7 +32,7 @@
         <div class="linkedin-post-fallback">
           <a :href="post.url" target="_blank" rel="noopener noreferrer">
             <span class="linkedin-icon">in</span>
-            View this post on LinkedIn
+            View this post on LinkedIn / 在LinkedIn上查看此动态
           </a>
           <span v-if="post.description" class="post-description">{{ post.description }}</span>
         </div>
@@ -46,6 +48,8 @@ const loading = ref(true)
 const error = ref(false)
 const posts = ref([])
 
+// Extract LinkedIn activity ID from post URL
+// 从动态URL中提取LinkedIn活动ID
 function extractActivityId(url) {
   if (!url) return null
   if (url.startsWith('urn:li:activity:')) {
@@ -62,17 +66,19 @@ function extractActivityId(url) {
   return null
 }
 
+// Fetch LinkedIn posts from the configured JSON endpoint
+// 从配置的JSON端点获取LinkedIn动态数据
 async function loadPosts() {
   try {
     const response = await fetch('/data/linkedin-posts.json')
     if (!response.ok) {
       throw new Error('Failed to load posts data')
     }
-    
+
     const data = await response.json()
     const rawPosts = data.posts || []
     const maxPosts = data.instructions?.max_posts || 5
-    
+
     posts.value = rawPosts
       .slice(0, maxPosts)
       .map(post => ({
@@ -80,7 +86,7 @@ async function loadPosts() {
         activityId: extractActivityId(post.url)
       }))
       .filter(post => post.activityId)
-    
+
     loading.value = false
   } catch (e) {
     console.error('Error loading LinkedIn posts:', e)

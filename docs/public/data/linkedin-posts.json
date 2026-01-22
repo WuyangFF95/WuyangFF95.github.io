@@ -1,23 +1,17 @@
 {
-  "description": "LinkedIn posts from Joe Yeong to display on the news page. Add post URLs here to update the display.",
+  "description": "LinkedIn posts from WU Yang to display on the news page. Add post URLs here to update the display. / 武洋的LinkedIn动态，显示在新闻页面。在此添加动态URL以更新显示内容。",
   "instructions": {
     "how_to_add_posts": [
-      "1. Visit https://www.linkedin.com/in/joe-yeong/",
-      "2. Find a post that Joe Yeong shared (not just liked/reposted)",
-      "3. Click on the post to open it",
-      "4. Copy the URL from the browser address bar",
-      "5. Add the URL to the 'posts' array below",
-      "6. Commit and push the changes"
+      "1. Visit WU Yang's LinkedIn profile / 访问武洋的LinkedIn个人资料",
+      "2. Find a post that WU Yang shared (not just liked/reposted) / 找到武洋分享的动态（不仅仅是点赞/转发）",
+      "3. Click on the post to open it / 点击动态打开",
+      "4. Copy the URL from the browser address bar / 从浏览器地址栏复制URL",
+      "5. Add the URL to the 'posts' array below / 将URL添加到下方的'posts'数组中",
+      "6. Commit and push the changes / 提交并推送更改"
     ],
-    "url_format": "https://www.linkedin.com/posts/joe-yeong_...-activity-XXXXXXXXXX-XXXX",
+    "url_format": "https://www.linkedin.com/posts/[username]_...-activity-XXXXXXXXXX-XXXX",
     "max_posts": 5,
-    "note": "Only original posts (not reposts) will display properly with LinkedIn embeds"
+    "note": "Only original posts (not reposts) will display properly with LinkedIn embeds / 只有原创动态（非转发）才能通过LinkedIn嵌入正常显示"
   },
-  "posts": [
-    {
-      "url": "https://www.linkedin.com/posts/joe-yeong_yearinreview-activity-7407283630991003649-qVBI",
-      "added_date": "2025-12-18",
-      "description": "Year in Review - Bernard A. Fox PhD connection"
-    }
-  ]
+  "posts": []
 }
