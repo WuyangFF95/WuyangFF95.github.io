@@ -1,0 +1,233 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{xeCJK}
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{amssymb}
+
+% Chinese font setup - using macOS system fonts
+% Songti SC (宋体-简) for main font, Heiti SC (黑体-简) for sans font
+\setCJKmainfont{Songti SC}[Fallback=Songti TC]
+\setCJKsansfont{Heiti SC}[Fallback=Heiti TC]
+\setCJKmonofont{Songti SC}[Fallback=Songti TC]
+
+% Page setup
+\geometry{margin=1in}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue
+}
+
+% Section formatting
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+% Custom commands
+\newcommand{\email}[1]{\href{mailto:#1}{#1}}
+\newcommand{\urltext}[1]{\href{#1}{#1}}
+
+% Remove page numbers
+\pagestyle{empty}
+
+\begin{document}
+
+% Header
+\begin{center}
+{\Huge\bfseries 武洋}\\[0.5cm]
+\end{center}
+
+\begin{center}
+\begin{tabular}{lp{10cm}}
+\textbf{机构} & \parbox[t]{10cm}{新加坡科技研究局分子与细胞生物学研究院 Institute of Molecular and Cell Biology (IMCB),\\Agency for Science, Technology and Research (A*STAR)} \\
+\textbf{地址} & \#05-01 Proteos Building, 61 Biopolis Drive, Singapore 138673 \\
+\textbf{电话} & +86-18665322610 \\
+\textbf{Email} & \email{wu\_yang@a-star.edu.sg} (机构) \email{wuyangff95@protonmail.com} (个人) \\
+\textbf{ORCID} & \urltext{https://orcid.org/0000-0002-1837-8330} \\
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\section*{工作履历 / Employment}
+
+\textbf{2023/02$\sim$至今}
+
+新加坡科技研究局（A*STAR）分子与细胞生物学研究院（IMCB） 博士后，生物信息分析师
+
+\textbf{2022/08$\sim$2023/01}
+
+新加坡国立大学（NUS）杜克-新国大医学院（Duke-NUS Medical School） 博士后
+
+\section*{教育经历 / Education}
+
+\textbf{2017/08$\sim$2022/07}
+
+新加坡国立大学杜克-新国大医学院 计算生物学专业，博士
+
+\textbf{2013/09$\sim$2017/06}
+
+复旦大学生命科学学院理学学士（生物科学专业）
+
+\section*{专业技能与项目简介 / Professional skills and brief abstract of research projects}
+
+\begin{itemize}[leftmargin=*,nosep]
+\item 生物信息学 - 基因组、转录组、健康数据的队列分析，挖掘与疾病相关的突变位点/其他风险因素
+  \begin{itemize}[leftmargin=*]
+  \item 关联分析（GWAS，TWAS）
+  \item 共病分析
+  \item 挖掘与疾病
+  \end{itemize}
+\item 生物信息学 - 肿瘤免疫微环境的挖掘
+  \begin{itemize}[leftmargin=*]
+  \item 单细胞转录组的挖掘
+  \item 空间转录组（Stereo-seq，10X Visium，10X Xenium）挖掘
+  \item 荧光流式细胞仪（Cytek）数据分析
+  \end{itemize}
+\item 肿瘤新抗原的筛选
+  \begin{itemize}[leftmargin=*]
+  \item PacBio Isoseq 三代测序分析结构突变、异常剪接（Aberrant Splicing）
+  \item 预测新抗原的免疫原性、稳定性
+  \item HLA分型（NGS测序、WES/WGS数据推断：OptiType、HLA-HD等）
+  \item sc-VDJ-seq 评估免疫响应、追踪T细胞克隆扩增、辅助TCR-T疗法开发
+  \item 免疫肽组学 - 质谱分析验证抗原是否被实际呈递
+  \end{itemize}
+\item 生物信息工作流构建（Snakemake）
+\end{itemize}
+
+\section*{科研项目 / Research Projects}
+
+\subsection*{空间转录组学分析 / Spatial Transcriptomics}
+
+\begin{longtable}{p{4.5cm}p{4.5cm}cp{2cm}}
+\toprule
+\textbf{项目} & \textbf{核心发现} & \textbf{状态} & \textbf{相关文章} \\
+\midrule
+\endfirsthead
+\multicolumn{4}{c}%
+{{\bfseries \tablename\ \thetable{} -- continued from previous page}} \\
+\toprule
+\textbf{项目} & \textbf{核心发现} & \textbf{状态} & \textbf{相关文章} \\
+\midrule
+\endhead
+\midrule \multicolumn{4}{r}{{Continued on next page}} \\
+\endfoot
+\bottomrule
+\endlastfoot
+鼻咽癌免疫治疗响应（Stereo-seq） & EBV病毒RNA含量可预测Ipi+Nivo联合治疗预后 & $\checkmark$ 已完成 & \textbf{文章1} \\
+cDC1抗肿瘤机制（Stereo-seq） & cDC1耗竭导致肿瘤纤维化增加、T细胞浸润减少 & $\checkmark$ 已完成 & \textbf{文章4} \\
+亚洲乳腺癌APOBEC突变空间分布（Stereo-seq） & 30kb删减突变影响APOBEC3A/3B活性比例 & $\checkmark$ 已完成 & \textbf{文章6-7} \\
+三阴乳腺癌CD8+T细胞抑制因子（10X Visium） & IQGAP1、B7H3等基因与CD8+T细胞丰度负相关 & \textcolor{blue}{进行中} & -- \\
+\end{longtable}
+
+\subsection*{单细胞转录组学分析 / Single-cell Transcriptomics}
+
+\begin{longtable}{p{4.5cm}p{4.5cm}cp{2cm}}
+\toprule
+\textbf{项目} & \textbf{核心发现} & \textbf{状态} & \textbf{相关文章} \\
+\midrule
+TP53突变与结肠癌前病变 & 探究TP53突变对结肠组织稳态及肿瘤发生的影响 & \textcolor{blue}{进行中} & -- \\
+\bottomrule
+\end{longtable}
+
+\subsection*{全基因组关联研究 / GWAS}
+
+\begin{longtable}{p{4.5cm}p{4.5cm}cp{2cm}}
+\toprule
+\textbf{项目} & \textbf{核心发现} & \textbf{状态} & \textbf{相关文章} \\
+\midrule
+SLAS队列老龄化研究（NCT03405675） & 克隆性造血（如TET2变异）与肝癌风险显著相关的分析 & \textcolor{blue}{进行中} & -- \\
+\bottomrule
+\end{longtable}
+
+\subsection*{突变特征分析 / Mutational Signature}
+
+\begin{longtable}{p{4.5cm}p{4.5cm}cp{2cm}}
+\toprule
+\textbf{项目} & \textbf{核心贡献} & \textbf{状态} & \textbf{相关文章} \\
+\midrule
+COSMIC标准突变特征库 & 参与发现与验证标准突变特征 & $\checkmark$ 已完成 & \textbf{文章14} \\
+突变特征提取软件开发 & 开发mSigHdp；主导多软件性能测试 & $\checkmark$ 已完成 & \textbf{文章10-13} \\
+\bottomrule
+\end{longtable}
+
+\section*{发表文章 / Publications}
+
+\subsection*{空间转录组学与肿瘤微环境 / Spatial Transcriptomics \& Tumor Microenvironment}
+
+\textbf{第一作者：}
+
+\begin{enumerate}[leftmargin=*,nosep]
+\item \textbf{Wu, Y.}*, Neo, Z. W., Chong, L. Y., Goh, D., Iyer, N. G., Chua, M. L. K., Lee, B., Song, X., Yeong, J. \& Lim, D. W.-T. Using longitudinal spatial-omics to demonstrate in-situ Epstein--Barr virus reduction in responders to immunotherapy treated nasopharyngeal cancer. \textit{J. Clin. Oncol.} \textbf{43}, 16\_suppl (2025). \urltext{https://doi.org/10.1200/JCO.2025.43.16\_suppl.6025} (会议摘要+海报，IF: 43.4)
+
+\item \textbf{Wu, Y.}*, Wee, F., Chong, L. Y., Neo, Z. W., Lim, J., et al. Single-cell resolution spatial transcriptomics detection of pathogens followed by studying the immune milieu: using virus-associated cancers from different organs as paradigm. \textit{J. Immunother. Cancer} \textbf{11} (2023). \urltext{https://doi.org/10.1136/jitc-2023-SITC2023.1512} (会议摘要+海报，IF: 10.6)
+\end{enumerate}
+
+\textbf{共同第一作者：}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item Wang, Y.*, \textbf{Wu, Y.}*, Zhang, F.*, Periasamy, P.*, You, H., Goh, D., Fincham, R. E. A., Ning, X., Wu, D., Liu, L., Jiang, Y., Qian, Z., Yeong, J. \& Zhang, Y. Integrating spatial proteogenomics in cancer research. \textit{Adv. Sci.} (in review, 2026). (综述，IF: 17.5)
+\end{enumerate}
+
+\textbf{其他作者：}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item Vilbois, S., Alfei, F., Tao, H., Chuang, Y.-M., Kieffer, Y., \textbf{Wu, Y.}, Zhang, S., Chang, T.-H., Hsueh, P.-C., Wang, Y.-H., Low, J. T., Møller, S. H., Ruiz Buendía, G. A., Drobná, D., Schuster, M., Held, W., Yeong, J. P. S., Mechta-Grigoriou, F., Bénéchet, A. P., Zhou, J., \& Ho, P.-C. cDC1s restrain tumor fibrosis to sustain T cell motility and T cell anti-tumor responses. \textit{Nat. Immunol.} (审稿中, 2025). (IF: 27.6)
+
+\item Liu, Y., Chong, C. Y. L., Wang, Y., Xu, L., Tan, Q. X., Hendrikson, J., Tan, J. W.-S., Ng, G., Guo, W., Wang, Y., Huang, L., Ge, W., Rethineswaran, V. K., Ong, J. Z. L., Quek, Y. E., Ang, A. J. Y., Teo, F., Chen, O. W., Ko, T. K., Kannan, B., Lim, B. Y., Lee, E. C. Y., Guo, Z., Lakshmanan, V., Shannon, N. B., Jegannathan, N., Ryan, C., Neo, Z. W., Chong, L. Y., Ng, A. R. H., Lee, J.-Y. J., Loo, L.-H., \textbf{Wu, Y.}, Zhang, S., Nie, L., Zhang, Q., Zeng, L., Lim, T. K. H., Ng, M. C. H., Lee, C. J. Z., Chang, P. E. J., Teh, K. K.-J., Tan, H. K., Nadarajah, R., Yong, T. T., Wang, J., Aggarwal, I. M., Fong, E. L. S., Wu, K. Z., So, J. B. Y., Yeoh, K. G., Wong, J. S. M., Seo, C. J., Cai, M., Chia, C. S., Teh, B. T., Tan, I. B., Yeong, J., Chan, J. Y., Guo, T. \& Ong, C.-A. J. Identification of novel paracrine therapeutic targets in peritoneal metastases through integrative proteotranscriptomic analysis of ascites. \textit{Cell} (审稿中, 2025).
+
+\item Tan, Z. C., \textbf{Wu, Y.}, Neo, Z. W., Lau, M. C., Teo, S.-H., Yeong, J. P. S., Chang, S. W. \& Pan, J. W. Spatial patterns of APOBEC mutagenesis in the tumour microenvironment of Asian breast cancer. \textit{Nat. Commun.} (审稿中, 2026). bioRxiv: \urltext{https://www.biorxiv.org/content/10.64898/2026.01.01.697328v1} (IF: 14.7)
+
+\item Tan, Z. C., \textbf{Wu, Y.}, Neo, Z. W., Lau, M. C., Chang, S. W., Yeong, J. P. S., Teo, S.-H. \& Pan, J. W. Spatial patterns of APOBEC mutagenesis in the tumor microenvironment of Asian breast cancer. \textit{Cancer Res.} \textbf{85} (8\_Suppl\_1), 151 (2025). \urltext{https://doi.org/10.1158/1538-7445.AM2025-151} (会议摘要+海报, IF: 16.6)
+
+\item Zhang, Y., Lee, R. Y., Tan, C. W., Guo, X., Yim, W. W., Lim, J. C., Wee, F. Y., \textbf{Wu, Y.}, Kharbanda, M., Lee, J. J., Ngo, N. T., Leow, W. Q., Loo, L. H., Lim, T. K., Sobota, R. M., Lau, M. C., Davis, M. J., \& Yeong, J. Spatial omics techniques and data analysis for cancer immunotherapy applications. \textit{Curr. Opin. Biotechnol.} \textbf{87}, 103111 (2024). \urltext{https://doi.org/10.1016/j.copbio.2024.103111} (综述，IF: 7.0)
+
+\item Lee, R. Y., \textbf{Wu, Y.}, Goh, D., Tan, V., Ng, C. W., Lim, J. C. T., Lau, M. C., Yeong J. P. S. Application of Artificial Intelligence to In Vitro Tumor Modeling and Characterization of the Tumor Microenvironment. \textit{Adv. Healthc. Mater.} \textbf{12}, 2202457 (2023). \urltext{https://doi.org/10.1002/adhm.202202457} (综述，IF: 9.6)
+\end{enumerate}
+
+\subsection*{肿瘤突变特征分析 / Mutational Signature Analysis}
+
+\textbf{第一作者：}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item \textbf{Wu, Y.}*, Chua, E. H. Z., Ng, A. W. T., Boot, A. \& Rozen, S. G. Accuracy of mutational signature software on correlated signatures. \textit{Sci. Rep.} \textbf{12}, 390 (2022). \urltext{https://doi.org/10.1038/s41598-021-04207-6} (IF: 4.3)
+\end{enumerate}
+
+\textbf{共同第一作者：}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item Liu, M.*, \textbf{Wu, Y.}*, Jiang, N., Boot, A. \& Rozen, S. G. mSigHdp: hierarchical Dirichlet process mixture modeling for mutational signature discovery. \textit{NAR Genom. Bioinform.} \textbf{5}, lqad005 (2023). \urltext{https://doi.org/10.1093/nargab/lqad005} (IF: 5.0)
+\end{enumerate}
+
+\textbf{其他作者：}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item Jiang, N., \textbf{Wu, Y.}, Rozen, S. G. Benchmarking 13 tools for mutational signature attribution, including a new and improved algorithm. \textit{Brief. Bioinform.} \textbf{26}, bbaf042 (2025). \urltext{https://doi.org/10.1093/bib/bbaf042} (IF: 8.7)
+
+\item Islam, S. M. A., Díaz-Gay, M., \textbf{Wu, Y.}, Barnes, M., Vangara, R., Bergstrom, E. N., He, Y., Vella, M., Wang, J., Teague, J. W., Clapham, P., Moody, S., Senkin, S., Li, Y. R., Riva, L., Zhang, T., Gruber, A. J., Steele, C. D., Otlu, B., Khandekar, A., \ldots Alexandrov, L. B. Uncovering novel mutational signatures by \textit{de novo} extraction with SigProfilerExtractor. \textit{Cell Genom.} \textbf{2}, 100179 (2022). \urltext{https://doi.org/10.1016/j.xgen.2022.100179} (IF: 11.1)
+
+\item Alexandrov, L. B., Kim, J., Haradhvala, N. J., Huang, M. N., Ng, A. W. T., \textbf{Wu, Y.}, Boot, A., Covington, K. R., Gordenin, D. A., Bergstrom, E. N., Islam, S. M. A., Lopez-Bigas, N., Klimczak, L. J., McPherson, J. R., Morganella, S., Sabarinathan, R., Wheeler, D. A., Mustonen, V., Getz, G., Rozen, S. G., Stratton, M. R. \& P. Consortium. The repertoire of mutational signatures in human cancer. \textit{Nature} \textbf{578}, 94--101 (2020). \urltext{https://doi.org/10.1038/s41586-020-1943-3} (IF: 55.0)
+\end{enumerate}
+
+\subsection*{蛋白质组学 / Proteomics}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item Periasamy, P., Soon, K., Lim, X., \textbf{Wu, Y.}, Meng, J., Lim, F., Yeong, J. DETECT -- Cost-effective, high-throughput enrichment of low molecular weight proteins in serum proteomics -- insights from a CAR-T therapy trial. \textit{J. Immunother. Cancer} \textbf{11} (2023). \urltext{https://doi.org/10.1136/jitc-2023-SITC2023.0200} (会议摘要+海报，IF: 10.6)
+\end{enumerate}
+
+\subsection*{生物信息学工具开发 / Bioinformatics Tool Development}
+
+\begin{enumerate}[leftmargin=*,nosep,resume]
+\item Li, Z., Zhang, F., Wang, Y., Qiu, Y., \textbf{Wu, Y.}, Lu, Y., Yang, L., Qu, W. J., Wang, H., Zhou, W. \& Tian, W. PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease. \textit{Bioinformatics} \textbf{35}, 3559--3566 (2019). \urltext{https://doi.org/10.1093/bioinformatics/btz100} (IF: 7.1)
+\end{enumerate}
+
+\end{document}
